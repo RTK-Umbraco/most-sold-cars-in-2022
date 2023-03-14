@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { ECarsData } from './interfaces/ecars-data';
 
 @Component({
   selector: 'app-root',
